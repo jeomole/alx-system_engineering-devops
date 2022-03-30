@@ -1,1 +1,1 @@
-0-current_working_directory: To print absolute path name
+1-listit: Display content list of current working directory
