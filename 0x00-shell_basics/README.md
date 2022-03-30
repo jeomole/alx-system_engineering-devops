@@ -1,1 +1,1 @@
-1-listit: Display content list of current working directory
+2-bring_me_home: change working directory to home
